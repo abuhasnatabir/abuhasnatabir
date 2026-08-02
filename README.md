@@ -48,3 +48,5 @@ Software developer focused on full-stack web development and AI-powered products
 ---
 
 <sub>Thanks for stopping by — feel free to look around.</sub>
+
+<!-- profile -->
