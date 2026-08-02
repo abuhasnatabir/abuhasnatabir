@@ -43,7 +43,7 @@ Software developer focused on full-stack web development and AI-powered products
 ## 📫 Get in Touch
 
 - GitHub: [@abuhasnatabir](https://github.com/abuhasnatabir)
-- Email: <sihab.howlader@techjays.com>
+
 
 ---
 
