@@ -3,7 +3,7 @@
 Software developer focused on full-stack web development and AI-powered products.
 
 - 🎓 CSE student at Daffodil International University
-- 💼 Currently building software at **Techjays**
+- 💼 Currently building software at **Solveon**
 - 🌱 Learning more about AI security and agentic systems
 - 💬 Ask me about **Next.js**, **TypeScript**, or **Postgres**
 
